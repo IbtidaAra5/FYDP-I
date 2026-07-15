@@ -53,10 +53,12 @@ Columns: # | Title | Authors/Year | Week Read | Status (To Read / Reading / Done
 ●	New HCI reference/reading → drop into HCI Domain/
 ●	Keep commits small and frequent (e.g., 'week-05 journal update', 'add paper: AdolescentBot notes')
 
+
 🎯 FYDP Course Info(Update Later)
 ●	Course:
 ●	Supervisor: 
 ●	Project Title: 
 ●	Timeline: 
+
 
 This repository is maintained as part of the FYDP course requirement to track weekly progress, learning, and literature review activities.
