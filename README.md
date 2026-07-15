@@ -1,7 +1,8 @@
 FYDP
 Final Year Design Project — coursework materials, weekly progress journal, and paper reading tracker.
-Student: Ibtida Ara
-Program: CSE, United International University (UIU)
+
+
+
 
 📁 Repository Structure
 FYDP/
@@ -21,31 +22,20 @@ FYDP/
 │
 └── README.md
 
+
+
 📆 Weekly Journal
 Each week gets its own file in Individual journal/week-XX.md using this format:
-## Week X (Start Date – End Date)
-
-### What I worked on
--
-
-### What I learned
--
-
-### Papers read this week
--
-
-### Blockers / Questions for supervisor
--
-
-### Plan for next week
--
 
 Keep entries short and honest — the point is to track real progress, not to write a report every week.
 
+
 📚 Paper Reading Tracker
-All papers read are logged in this spreadsheet:
-Paper Tracker Spreadsheet: ADD_YOUR_SHEET_LINK_HERE
-Columns: # | Title | Authors/Year | Week Read | Status (To Read / Reading / Done) | Notes Link
+All papers read are logged in this spreadsheet
+
+Paper Tracker Spreadsheet: https://docs.google.com/spreadsheets/d/1ImHd4ovpHWt3foJjrj_TvKY5qX9eae-mhJjHNvcq2j0/edit?gid=0#gid=0
+Columns: # DOI | Paper Title | Publish Year | purpose (motivation) |  methodolgy| Notes Link
+
 
 ✅ How to Update This Repo
 ●	New week → create Individual journal/week-XX.md from the template above
@@ -54,7 +44,9 @@ Columns: # | Title | Authors/Year | Week Read | Status (To Read / Reading / Done
 ●	Keep commits small and frequent (e.g., 'week-05 journal update', 'add paper: AdolescentBot notes')
 
 
+
 🎯 FYDP Course Info(Update Later)
+
 ●	Course:
 ●	Supervisor: 
 ●	Project Title: 
