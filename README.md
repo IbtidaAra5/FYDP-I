@@ -1,26 +1,23 @@
 FYDP
-Final Year Design Project — coursework materials, weekly progress journal, and paper reading tracker.
+
+Final Year Design Project
+
+—>coursework materials, weekly progress journal, and paper reading tracker.
 
 
 
 
-📁 Repository Structure
-FYDP/
-│
-├── Course materials/          Slides, official course docs, syllabus, guidelines
-│
-├── fydp_Paper_Info/           Core info related to the FYDP project's chosen paper(s)/topic
-│
-├── HCI Domain/                HCI-specific readings, references, domain notes
-│
-├── Individual journal/        Weekly journal entries (one file per week)
-│    ├── week-01.md
-│    ├── week-02.md
-│    └── ...
-│
-├── Papers_Reading_Track/      Paper tracker spreadsheet link lives here (see below)
-│
-└── README.md
+
+
+
+<img width="494" height="323" alt="image" src="https://github.com/user-attachments/assets/58eb4317-0e35-434e-8a1e-e6b044cd0967" />
+
+
+
+
+
+
+
 
 
 
@@ -30,11 +27,18 @@ Each week gets its own file in Individual journal/week-XX.md using this format:
 Keep entries short and honest — the point is to track real progress, not to write a report every week.
 
 
+
+
 📚 Paper Reading Tracker
 All papers read are logged in this spreadsheet
 
-Paper Tracker Spreadsheet: https://docs.google.com/spreadsheets/d/1ImHd4ovpHWt3foJjrj_TvKY5qX9eae-mhJjHNvcq2j0/edit?gid=0#gid=0
-Columns: # DOI | Paper Title | Publish Year | purpose (motivation) |  methodolgy| Notes Link
+
+Paper Tracker Spreadsheet: 
+
+https://docs.google.com/spreadsheets/d/1ImHd4ovpHWt3foJjrj_TvKY5qX9eae-mhJjHNvcq2j0/edit?gid=0#gid=0
+
+Columns: # DOI | Paper Title | Publish Year | purpose (motivation) |  methodolgy| Gaps | Lackings | Future work | Novelity | Dataet link
+
 
 
 ✅ How to Update This Repo
@@ -45,12 +49,9 @@ Columns: # DOI | Paper Title | Publish Year | purpose (motivation) |  methodolgy
 
 
 
+
 🎯 FYDP Course Info(Update Later)
 
-●	Course:
-●	Supervisor: 
-●	Project Title: 
-●	Timeline: 
 
 
 This repository is maintained as part of the FYDP course requirement to track weekly progress, learning, and literature review activities.
